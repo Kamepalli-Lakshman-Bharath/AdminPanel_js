@@ -1,7 +1,7 @@
 /* sorry for the late submission it took me some time to do this assignment after knowing the api is updated and in the this assingment 
   1) i implemented every functionality using the jquery 
   2) the serch box is working only before the click event is triggered and after the click event is triggered it is not working , i want the TA to validate my code
-  and find the issue behind that thank you sir/madam.
+  and find the issue behind that and let me know in the comments of the assingment, thank you sir/madam.
 */
 
 
